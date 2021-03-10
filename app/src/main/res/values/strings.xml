@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">News_App</string>
+    <string name="menu_person">Person</string>
+    <string name="title_field">Richard Enrico</string>
+    <string name="username_field">richardenrico</string>
+    <string name="id_student_field">H071191055</string>
+    <string name="birthplace_field">Makassar, 02 April 2001</string>
+    <string name="motto">I am chasing perfection</string>
+    <string name="hello_1">Hello,</string>
+    <string name="hello_2"><u>Richard Enrico</u></string>
+    <string name="biodata"><u>Biodata</u></string>
+    <string name="news_title"><![CDATA[Staf Shadows House Perlihatkan Visual Terbaru & Umumkan Jadwal Tayang]]></string>
+    <string name="news_category">Anime</string>
+    <string name="news_support">Situs resmi adaptasi anime dari manga “Shadows House” karya Soumato mengumumkan informasi terbaru pada Senin malam (08/03). Jajaran staf, seiyuu, lagu tema, dan jadwal tayangnya resmi diungkap. Visual terbaru juga diperlihatkan di situs resminya. Anime ini juga dipastikan akan mulai mengudara pada 10 April 2021.</string>
+    <string name="home_head">News Today</string>
+    <string name="label">Search..</string>
+    <string name="news_date">March 8, 2021 7:24 pm | </string>
+    <string name="news_01">Situs resmi adaptasi anime dari manga “Shadows House” karya Soumato mengumumkan informasi terbaru pada Senin malam (08/03). Jajaran staf, seiyuu, lagu tema, dan jadwal tayangnya resmi diungkap. Visual terbaru juga diperlihatkan di situs resminya. Anime ini juga dipastikan akan mulai mengudara pada 10 April 2021.</string>
+    <string name="news_02">Lagu tema penutup anime ini akan dibawakan oleh ReoNa dengan judul “Nai Nai“. CD dari lagu ini akan dirilis pada 12 Mei 2021.</string>
+    <string name="news_03">Karakter terbaru bernama Edward akan disuarakan oleh seiyuu veteran, Wataru Hatano.</string>
+    <string name="news_04">Visual terbaru:</string>
+    <string name="news_05">Sinopsis <b>“Shadows House”</b> :</string>
+    <string name="news_06">Bangsawan bayangan tanpa wajah hidup di mansion mewah, yang ditinggali oleh boneka-boneka hidup yang menghabiskan waktunya membersihkan kotoran yang tak pernah habis dari majikan misteriusnya.
+        Ikuti cerita Emilyko, boneka hidup yang masih muda dan periang, dimana ia belajar mengerjakan tugasnya sebagai pelayan dari Kate Shadow-sama.
+    [Terjemahan dari Shueisha]</string>
+    <string name="news_07">Manga “Shadows House” diluncurkan Soumato di majalah Weekly Young Jump pada 20 September 2018. Shueisha mulai menerbitkan volume pertama manga ini menggunakan label Young Jump Comics pada 18 Januari 2019. Volume keenam manga ini terbit pada 16 Oktober 2020. Manga ini juga didistribusikan dalam penuh warna di aplikasi Young Jump dan Shuukan Young Jump. Manga ini juga mulai diterbitkan di Korea Selatan.
+        Soumato merupakan duo mangaka dan penulis yang terdiri dari Hisshi dan Nori. Hisshi berperan sebagai mangaka dan Nori sebagai penulis atau desainer latarnya.</string>
+</resources>
